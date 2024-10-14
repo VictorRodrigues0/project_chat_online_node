@@ -51,6 +51,6 @@ io.on("connection", (socket: any) => {
 
 });
 
-server.listen(process.env.PORT, () => {
+server.listen(process.env.PORT || 9011, () => {
     console.log(`Server is running on link: http://localhost:${process.env.PORT}`)
 });
