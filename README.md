@@ -1,8 +1,10 @@
 # project_chat_online_node
 
-<a href="#pt-br">Ler em português</a>
-<a href="#run-pt-br">Ver o projeto rodando</a>
-<a href="#run-en">See the project running</a>
+<ul>
+  <li><a href="#pt-br">Ler em português</a></li>
+  <li><a href="#run-pt-br">Ver o projeto rodando</a></li>
+  <li><a href="#run-en">See the project running</a></li>
+</ul>
 
 ## More About the Project
 
