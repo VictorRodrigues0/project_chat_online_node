@@ -46,9 +46,9 @@ Don't forget to create the .env file and specify the PORT for the server.
 
 Esta é uma descrição de uma aplicação de chat usando Socket.IO com Node.js:
 
-Uma aplicação de chat em tempo real construída com Node.js e Socket.IO permite que os usuários troquem mensagens instantaneamente. O servidor é criado usando Express.js, que gerencia o roteamento básico e serve os arquivos do lado do cliente. O Socket.IO possibilita a comunicação bidirecional entre o servidor e os clientes conectados, permitindo o envio de mensagens em tempo real sem a necessidade de constantes requisições HTTP.
-
 <div id="pt-br"></div>
+
+Uma aplicação de chat em tempo real construída com Node.js e Socket.IO permite que os usuários troquem mensagens instantaneamente. O servidor é criado usando Express.js, que gerencia o roteamento básico e serve os arquivos do lado do cliente. O Socket.IO possibilita a comunicação bidirecional entre o servidor e os clientes conectados, permitindo o envio de mensagens em tempo real sem a necessidade de constantes requisições HTTP.
 
 Cada usuário pode entrar em uma sala de chat, enviar e receber mensagens em tempo real e ver quando outros usuários estão digitando. O servidor transmite as mensagens para todos os clientes conectados na sala, garantindo que cada participante receba as atualizações imediatamente. O sistema também suporta recursos como notificações de conexão de usuários e alertas de desconexão.
 
