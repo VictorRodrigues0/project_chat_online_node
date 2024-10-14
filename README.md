@@ -21,7 +21,7 @@ git clone https://github.com/VictorRodrigues0/project_chat_online_node.git
 ```
 
 After that, install the dependencies. Open the terminal and run:
-```terminal
+```bash
 npm install
 ```
 <br>
@@ -30,7 +30,7 @@ npm install
 
 Start the server:
 
-```terminal
+```bash
 npm run server
 ```
 
@@ -41,8 +41,41 @@ npm run server
 
 Don't forget to create the .env file and specify the PORT for the server.
 
+## Mais Sobre o Projeto
+
+Esta é uma descrição de uma aplicação de chat usando Socket.IO com Node.js:
+
+Uma aplicação de chat em tempo real construída com Node.js e Socket.IO permite que os usuários troquem mensagens instantaneamente. O servidor é criado usando Express.js, que gerencia o roteamento básico e serve os arquivos do lado do cliente. O Socket.IO possibilita a comunicação bidirecional entre o servidor e os clientes conectados, permitindo o envio de mensagens em tempo real sem a necessidade de constantes requisições HTTP.
+
+Cada usuário pode entrar em uma sala de chat, enviar e receber mensagens em tempo real e ver quando outros usuários estão digitando. O servidor transmite as mensagens para todos os clientes conectados na sala, garantindo que cada participante receba as atualizações imediatamente. O sistema também suporta recursos como notificações de conexão de usuários e alertas de desconexão.
+
+A interface do front-end é construída usando HTML, CSS e JavaScript, conectando-se ao servidor Socket.IO para exibir a interface de chat, onde os usuários podem enviar mensagens e vê-las sendo atualizadas dinamicamente sem recarregar a página.
+
+## Como Instalar
+
+Primeiro, clone o projeto:
+
+```bash
+git clone https://github.com/VictorRodrigues0/project_chat_online_node.git
+```
 <div id="pt-br"></div>
 
-## Mais sobre o projeto
+Depois disso, instale as dependências. Abra o terminal e execute:
 
-##
+```terminal
+npm install
+```
+<br>
+
+## Como usar:
+
+Inicie o servidor:
+
+```bash
+npm run server
+```
+<br>
+
+## Confihurações:
+
+Não se esqueça de criar o arquivo .env e especificar a PORTA para o servidor.
