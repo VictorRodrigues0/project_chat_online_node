@@ -11,7 +11,8 @@ A real-time chat application built with Node.js and Socket.IO allows users to ex
 Each user can join a chat room, send and receive messages in real-time, and see when other users are typing. The server broadcasts messages to all connected clients in the room, ensuring that every participant receives updates immediately. The system also supports features such as user connection notifications and disconnection alerts.
 
 The front end is built using HTML, CSS, and JavaScript, connecting to the Socket.IO server to display the chat interface, where users can send messages and see them update dynamically without reloading the page.
-<br>
+<br> 
+
 ## How to Install
 
 First, clone the project:
@@ -38,7 +39,9 @@ npm run server
 ## Settings:
 
 Don't forget to create the .env file and specify the PORT for the server.
+
 <hr>
+
 ## Mais Sobre o Projeto
 
 Esta é uma descrição de uma aplicação de chat usando Socket.IO com Node.js:
