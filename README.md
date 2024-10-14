@@ -1,5 +1,7 @@
 # project_chat_online_node
 
+<a href="#pt-br">Ler em português</a>
+
 ## More About the Project
 
 This is a description of a chat application using Socket.IO with Node.js:
@@ -31,8 +33,16 @@ Start the server:
 ```terminal
 npm run server
 ```
+
+
 <br>
 
 ## Settings:
 
 Don't forget to create the .env file and specify the PORT for the server.
+
+<div id="pt-br"></div>
+
+## Mais sobre o projeto
+
+##
