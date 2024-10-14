@@ -27,7 +27,7 @@ npm install
 ```
 <br>
 
-## How to use:
+## How to use
 
 Start the server:
 
@@ -36,17 +36,17 @@ npm run server
 ```
 <br>
 
-## Settings:
+## Settings
 
 Don't forget to create the .env file and specify the PORT for the server.
 
 <hr>
 
 ## Mais Sobre o Projeto
+<div id="pt-br"></div>
 
 Esta é uma descrição de uma aplicação de chat usando Socket.IO com Node.js:
 
-<div id="pt-br"></div>
 
 Uma aplicação de chat em tempo real construída com Node.js e Socket.IO permite que os usuários troquem mensagens instantaneamente. O servidor é criado usando Express.js, que gerencia o roteamento básico e serve os arquivos do lado do cliente. O Socket.IO possibilita a comunicação bidirecional entre o servidor e os clientes conectados, permitindo o envio de mensagens em tempo real sem a necessidade de constantes requisições HTTP.
 
@@ -68,7 +68,7 @@ npm install
 ```
 <br>
 
-## Como usar:
+## Como usar
 
 Inicie o servidor:
 
@@ -77,6 +77,6 @@ npm run server
 ```
 <br>
 
-## Configurações:
+## Configurações
 
 Não se esqueça de criar o arquivo .env e especificar a PORTA para o servidor.
