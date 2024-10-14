@@ -12,6 +12,8 @@ Each user can join a chat room, send and receive messages in real-time, and see 
 
 The front end is built using HTML, CSS, and JavaScript, connecting to the Socket.IO server to display the chat interface, where users can send messages and see them update dynamically without reloading the page.
 
+This is the first version; in the future, this project will be redesigned with Tailwind and React.
+
 ## How to Install
 
 First, clone the project:
@@ -37,8 +39,10 @@ Don't forget to create the .env file and specify the PORT for the server.
 
 <hr>
 
+<div id="pt-br">
+  
 ## Mais Sobre o Projeto
-<div id="pt-br"></div>
+</div>
 
 Esta é uma descrição de uma aplicação de chat usando Socket.IO com Node.js:
 
@@ -48,6 +52,8 @@ Uma aplicação de chat em tempo real construída com Node.js e Socket.IO permit
 Cada usuário pode entrar em uma sala de chat, enviar e receber mensagens em tempo real e ver quando outros usuários estão digitando. O servidor transmite as mensagens para todos os clientes conectados na sala, garantindo que cada participante receba as atualizações imediatamente. O sistema também suporta recursos como notificações de conexão de usuários e alertas de desconexão.
 
 A interface do front-end é construída usando HTML, CSS e JavaScript, conectando-se ao servidor Socket.IO para exibir a interface de chat, onde os usuários podem enviar mensagens e vê-las sendo atualizadas dinamicamente sem recarregar a página.
+
+Esta é a primeira versão; futuramente, este projeto será remodelado com Tailwind e React.
 
 ## Como Instalar
 
