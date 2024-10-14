@@ -23,6 +23,7 @@ After that, install the dependencies. Open the terminal and run:
 npm install
 ```
 <br>
+
 ## How to use:
 
 Start the server:
@@ -31,6 +32,7 @@ Start the server:
 npm run server
 ```
 <br>
+
 ## Settings:
 
 Don't forget to create the .env file and specify the PORT for the server.
