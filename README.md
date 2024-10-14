@@ -1,6 +1,8 @@
 # project_chat_online_node
 
 <a href="#pt-br">Ler em português</a>
+<a href="#run-pt-br">Ver o projeto rodando</a>
+<a href="#run-en">See the project running</a>
 
 ## More About the Project
 
@@ -39,6 +41,12 @@ Don't forget to create the .env file and specify the PORT for the server.
 
 <hr>
 
+## Running:
+
+<div id="run-en">click on link to access the chat: https://project-chat-online-node.onrender.com</div>
+
+<br>
+
 <div id="pt-br">
   
 ## Mais Sobre o Projeto
@@ -76,3 +84,10 @@ npm run server
 ## Configurações
 
 Não se esqueça de criar o arquivo .env e especificar a PORTA para o servidor.
+
+<br>
+
+## Rodando:
+
+<div id="run-pt-br">Clique para acessar o chat: https://project-chat-online-node.onrender.com</div>
+
