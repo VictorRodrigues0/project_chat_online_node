@@ -12,8 +12,14 @@ The front-end is built using HTML, CSS, and JavaScript, connecting to the Socket
 
 ## How install: 
 
-firstiy, clone the project. 
+Firstily, clone the project:
 
 ```clone
 git clone https://github.com/VictorRodrigues0/project_chat_online_node.git
 ```
+After this, install the dependecies. Open the terminal and write: 
+```terminal
+npm i
+```
+
+
