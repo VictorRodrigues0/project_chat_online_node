@@ -10,6 +10,8 @@ Each user can join a chat room, send and receive messages in real-time, and see 
 
 The front end is built using HTML, CSS, and JavaScript, connecting to the Socket.IO server to display the chat interface, where users can send messages and see them update dynamically without reloading the page.
 
+<br><br>
+
 ## How to Install
 
 First, clone the project:
@@ -23,6 +25,7 @@ After that, install the dependencies. Open the terminal and run:
 npm install
 ```
 
+<br><br>
 ## How to use:
 
 Start the server:
@@ -30,6 +33,7 @@ Start the server:
 ```terminal
 npm run server
 ```
+<br><br>
 ## Settings:
 
 Don't forget to create the .env file and specify the PORT for the server.
