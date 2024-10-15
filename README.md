@@ -45,7 +45,7 @@ Don't forget to create the .env file and specify the PORT for the server.
 
 ## Running:
 
-<div id="run-en">Click on link to access the chat: (https://project-chat-online-node.onrender.com)[https://project-chat-online-node.onrender.com] </div>
+<div id="run-en">Click on link to access the chat: [https://project-chat-online-node.onrender.com](https://project-chat-online-node.onrender.com) </div>
 
 <br>
 
