@@ -1,6 +1,6 @@
 # project_chat_online_node
 
-## Tópicos / Topics:
+## Tópicos / Topics
 
 - [Sobre o projeto](#sobre-o-projeto) | [About the project](#about-the-project)
 - [Ferramentas](#ferramentas) | [Tools](#tools)
