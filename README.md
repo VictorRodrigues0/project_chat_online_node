@@ -5,6 +5,7 @@
 - [Sobre o projeto](#sobre-o-projeto) | [About the project](#about-the-project)
 - [Ferramentas](#ferramentas) | [Tools](#tools)
 - [Como instalar](#como-instalar) | [How to Install](#how-to-install)
+- [Configurações](#configurações) | [Settings](#settings)
 - [Link da API](#link-da-api) | [API Link](#api-link)
 - [Agradecimento](#agradecimento) | [Acknowledgment](#acknowledgment)
 
@@ -57,7 +58,7 @@ npm run server
 
 Não se esqueça de criar o arquivo `.env` e especificar a `PORTA` para o servidor.
 
-<br>
+<hr>
 
 ## Link da API
 
