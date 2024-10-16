@@ -11,7 +11,7 @@
 
 <hr>
 
-## Mais Sobre o Projeto
+## Sobre o Projeto
 
 Esta é uma descrição de uma aplicação de chat usando Socket.IO com Node.js:
 
@@ -72,7 +72,7 @@ Agradeço por utilizar esta aplicação. Sua contribuição é sempre bem-vinda,
 
 <hr>
 
-## More About the Project
+## About the Project
 
 This is a description of a chat application using Socket.IO with Node.js:
 
