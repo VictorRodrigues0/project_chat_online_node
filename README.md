@@ -6,7 +6,7 @@
 - [Ferramentas](#ferramentas) | [Tools](#tools)
 - [Como instalar](#como-instalar) | [How to Install](#how-to-install)
 - [Configurações](#configurações) | [Settings](#settings)
-- [Link da API](#link-da-api) | [API Link](#api-link)
+- [Link da Aplicação](#link-da-aplicação) | [Application Link](#aplication-link)
 - [Agradecimento](#agradecimento) | [Acknowledgment](#acknowledgment)
 
 <hr>
@@ -60,7 +60,7 @@ Não se esqueça de criar o arquivo `.env` e especificar a `PORTA` para o servid
 
 <hr>
 
-## Link da API
+## Link da Aplicação
 
 Clique para acessar o chat: https://project-chat-online-node.onrender.com
 
@@ -124,7 +124,7 @@ Don't forget to create the `.env` file and specify the `PORT` for the server.
 
 <hr>
 
-## API Link
+## Application Link
 
 Click on link to access the chat: https://project-chat-online-node.onrender.com
 
