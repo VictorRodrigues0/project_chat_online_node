@@ -5,6 +5,8 @@
 -[Sobre o projeto](#sobre-o-projeto) | [About the project](#about-the-project)
 -[Ferramentas](#ferramentas) | [Tools](#tools)
 -[Como instalar](#como-instalar) | [How to Install](#how-to-install)
+-[Link da API](#link-da-api) | [API Link](#api-link)
+-[Agradecimento](#agradecimento) | [Acknowledgment](#acknowledgment)
 
 <hr>
 
@@ -31,6 +33,7 @@ Esta é a primeira versão; futuramente, este projeto será remodelado com Tailw
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"  width="100px" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"  width="100px" />
 </div>
+<hr>
 
 ## Como Instalar
 
@@ -43,23 +46,30 @@ Depois disso, instale as dependências. Abra o terminal e execute:
 ```terminal
 npm install
 ```
-## Como usar
 
 Inicie o servidor:
 
 ```bash
 npm run server
 ```
+
 ## Configurações
 
-Não se esqueça de criar o arquivo .env e especificar a PORTA para o servidor.
+Não se esqueça de criar o arquivo `.env` e especificar a `PORTA` para o servidor.
 
 <br>
 
-## Rodando:
+## Link da API
 
-<div>Clique para acessar o chat: https://project-chat-online-node.onrender.com </div>
+Clique para acessar o chat: https://project-chat-online-node.onrender.com
 
+<hr>
+
+## Agradecimento
+
+Agradeço por utilizar esta aplicação. Sua contribuição é sempre bem-vinda, seja para corrigir algum erro ou adicionar novas funcionalidades. Não hesite em enviar sua solução.
+
+<hr>
 
 ## More About the Project
 
@@ -73,6 +83,20 @@ The front end is built using HTML, CSS, and JavaScript, connecting to the Socket
 
 This is the first version; in the future, this project will be redesigned with Tailwind and React.
 
+<hr>
+
+## Tools
+
+
+<div style="display:inline-block">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="100px" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"  width="100px" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg"  width="100px" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"  width="100px" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"  width="100px" />
+</div>
+<hr>
+
 ## How to Install
 
 First, clone the project:
@@ -85,8 +109,6 @@ After that, install the dependencies. Open the terminal and run:
 ```bash
 npm install
 ```
-## How to use
-
 Start the server:
 
 ```bash
@@ -94,13 +116,18 @@ npm run server
 ```
 ## Settings
 
-Don't forget to create the .env file and specify the PORT for the server.
+Don't forget to create the `.env` file and specify the `PORT` for the server.
 
 <hr>
 
-## Running:
+## API Link
 
-<div>Click on link to access the chat: https://project-chat-online-node.onrender.com </div>
+Click on link to access the chat: https://project-chat-online-node.onrender.com
 
-<br>
+<hr>
+
+## Acknowledgment
+
+Thank you for using this application. Your contribution is always welcome, whether to fix a bug or add new features. Don’t hesitate to submit your solution.
+
 
