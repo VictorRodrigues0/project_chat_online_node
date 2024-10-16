@@ -6,7 +6,7 @@
 - [Ferramentas](#ferramentas) | [Tools](#tools)
 - [Como instalar](#como-instalar) | [How to Install](#how-to-install)
 - [Configurações](#configurações) | [Settings](#settings)
-- [Link da Aplicação](#link-da-aplicação) | [Application Link](#aplication-link)
+- [Link da Aplicação](#link-da-aplicação) | [Application Link](#application-link)
 - [Agradecimento](#agradecimento) | [Acknowledgment](#acknowledgment)
 
 <hr>
