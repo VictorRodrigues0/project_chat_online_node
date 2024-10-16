@@ -115,6 +115,9 @@ Start the server:
 ```bash
 npm run server
 ```
+
+<hr>
+
 ## Settings
 
 Don't forget to create the `.env` file and specify the `PORT` for the server.
