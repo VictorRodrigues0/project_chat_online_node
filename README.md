@@ -1,10 +1,65 @@
 # project_chat_online_node
 
-<ul>
-  <li><a href="#pt-br">Ler em português</a></li>
-  <li><a href="#run-pt-br">Ver o projeto rodando</a></li>
-  <li><a href="#run-en">See the project running</a></li>
-</ul>
+## Tópicos / Topics:
+
+-[Sobre o projeto](#sobre-o-projeto) | [About the project](#about-the-project)
+-[Ferramentas](#ferramentas) | [Tools](#tools)
+-[Como instalar](#como-instalar) | [How to Install](#how-to-install)
+
+<hr>
+
+## Mais Sobre o Projeto
+
+Esta é uma descrição de uma aplicação de chat usando Socket.IO com Node.js:
+
+Uma aplicação de chat em tempo real construída com Node.js e Socket.IO permite que os usuários troquem mensagens instantaneamente. O servidor é criado usando Express.js, que gerencia o roteamento básico e serve os arquivos do lado do cliente. O Socket.IO possibilita a comunicação bidirecional entre o servidor e os clientes conectados, permitindo o envio de mensagens em tempo real sem a necessidade de constantes requisições HTTP.
+
+Cada usuário pode entrar em uma sala de chat, enviar e receber mensagens em tempo real e ver quando outros usuários estão digitando. O servidor transmite as mensagens para todos os clientes conectados na sala, garantindo que cada participante receba as atualizações imediatamente. O sistema também suporta recursos como notificações de conexão de usuários e alertas de desconexão.
+
+A interface do front-end é construída usando HTML, CSS e JavaScript, conectando-se ao servidor Socket.IO para exibir a interface de chat, onde os usuários podem enviar mensagens e vê-las sendo atualizadas dinamicamente sem recarregar a página.
+
+Esta é a primeira versão; futuramente, este projeto será remodelado com Tailwind e React.
+
+<hr>
+
+## Ferramentas 
+
+<div style="display:inline-block">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="100px" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"  width="100px" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg"  width="100px" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"  width="100px" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"  width="100px" />
+</div>
+
+## Como Instalar
+
+Primeiro, clone o projeto:
+
+```bash
+git clone https://github.com/VictorRodrigues0/project_chat_online_node.git
+```
+Depois disso, instale as dependências. Abra o terminal e execute:
+```terminal
+npm install
+```
+## Como usar
+
+Inicie o servidor:
+
+```bash
+npm run server
+```
+## Configurações
+
+Não se esqueça de criar o arquivo .env e especificar a PORTA para o servidor.
+
+<br>
+
+## Rodando:
+
+<div>Clique para acessar o chat: https://project-chat-online-node.onrender.com </div>
+
 
 ## More About the Project
 
@@ -45,51 +100,7 @@ Don't forget to create the .env file and specify the PORT for the server.
 
 ## Running:
 
-<div id="run-en">Click on link to access the chat: https://project-chat-online-node.onrender.com </div>
+<div>Click on link to access the chat: https://project-chat-online-node.onrender.com </div>
 
 <br>
-
-<div id="pt-br">
-  
-## Mais Sobre o Projeto
-</div>
-
-Esta é uma descrição de uma aplicação de chat usando Socket.IO com Node.js:
-
-
-Uma aplicação de chat em tempo real construída com Node.js e Socket.IO permite que os usuários troquem mensagens instantaneamente. O servidor é criado usando Express.js, que gerencia o roteamento básico e serve os arquivos do lado do cliente. O Socket.IO possibilita a comunicação bidirecional entre o servidor e os clientes conectados, permitindo o envio de mensagens em tempo real sem a necessidade de constantes requisições HTTP.
-
-Cada usuário pode entrar em uma sala de chat, enviar e receber mensagens em tempo real e ver quando outros usuários estão digitando. O servidor transmite as mensagens para todos os clientes conectados na sala, garantindo que cada participante receba as atualizações imediatamente. O sistema também suporta recursos como notificações de conexão de usuários e alertas de desconexão.
-
-A interface do front-end é construída usando HTML, CSS e JavaScript, conectando-se ao servidor Socket.IO para exibir a interface de chat, onde os usuários podem enviar mensagens e vê-las sendo atualizadas dinamicamente sem recarregar a página.
-
-Esta é a primeira versão; futuramente, este projeto será remodelado com Tailwind e React.
-
-## Como Instalar
-
-Primeiro, clone o projeto:
-
-```bash
-git clone https://github.com/VictorRodrigues0/project_chat_online_node.git
-```
-Depois disso, instale as dependências. Abra o terminal e execute:
-```terminal
-npm install
-```
-## Como usar
-
-Inicie o servidor:
-
-```bash
-npm run server
-```
-## Configurações
-
-Não se esqueça de criar o arquivo .env e especificar a PORTA para o servidor.
-
-<br>
-
-## Rodando:
-
-<div id="run-pt-br">Clique para acessar o chat: https://project-chat-online-node.onrender.com </div>
 
