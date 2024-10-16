@@ -2,11 +2,11 @@
 
 ## Tópicos / Topics:
 
--[Sobre o projeto](#sobre-o-projeto) | [About the project](#about-the-project)
--[Ferramentas](#ferramentas) | [Tools](#tools)
--[Como instalar](#como-instalar) | [How to Install](#how-to-install)
--[Link da API](#link-da-api) | [API Link](#api-link)
--[Agradecimento](#agradecimento) | [Acknowledgment](#acknowledgment)
+- [Sobre o projeto](#sobre-o-projeto) | [About the project](#about-the-project)
+- [Ferramentas](#ferramentas) | [Tools](#tools)
+- [Como instalar](#como-instalar) | [How to Install](#how-to-install)
+- [Link da API](#link-da-api) | [API Link](#api-link)
+- [Agradecimento](#agradecimento) | [Acknowledgment](#acknowledgment)
 
 <hr>
 
